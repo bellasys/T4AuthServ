@@ -1,4 +1,4 @@
-//https://api.mongolab.com/api/1/databases/heroku_app11512143/collections/ltxuser?apiKey=510c354be4b0a92e1917d603
+//
 
 // hello-mongoose: MongoDB with Mongoose on Node.js example on Heroku.
 // Mongoose is a object/data mapping utility for the MongoDB database.
